@@ -1,2 +1,2 @@
-# Linux-Unix
+# Linux
 study records
